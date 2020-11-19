@@ -1,0 +1,37 @@
+{
+  "name": "Mekarsari Online",
+  "short_name": "MekarsariOnline",
+  "start_url": "https://mekarsari-online.blogspot.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#00080",
+  "description": "Blog yang menyajikan informasi seputar Desa Mekarsari dan lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s48/1605806406568.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s72/1605806406568.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s96/1605806406568.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s144/1605806406568.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s168/1605806406568.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s192/1605806406568.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xGMj1TMIis4/X7arVWgNc1I/AAAAAAAAACE/Z9Nh6NVGUSIP14iomuCawRplSiNJv7b8wCLcBGAsYHQ/s512/1605806406568.png",
+    "type": "image/png"
+  }]
+}
